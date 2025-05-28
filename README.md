@@ -1,0 +1,3 @@
+Esse código tem como objetivo criar uma visualização gráfica que mostra uma conexão entre duas áreas distintas: um campo à esquerda e uma cidade à direita. Ele faz isso gerando pontos aleatórios em cada lado, representando árvores no campo e prédios 
+na cidade, e então conecta esses pontos com linhas azuis semi-transparentes, formando uma rede de conexões entre as duas regiões. Além disso, o código adiciona um movimento suave aos pontos do campo para dar um efeito dinâmico à cena. Resumindo, 
+a função principal desse código é criar uma animação visual que ilustra a ligação entre o campo e a cidade de forma interativa e visualmente interessante. Se quiser, posso te ajudar a entender alguma parte específica ou a fazer melhorias!
